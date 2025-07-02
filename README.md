@@ -12,4 +12,4 @@ LSIC is equipped with these following facilities:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3629D2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+LSIC+at+HKBU;We+are+hiring+SO+and+RA+now!" alt="Typing SVG" />
 
 
-~
+
