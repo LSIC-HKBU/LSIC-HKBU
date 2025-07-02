@@ -9,4 +9,4 @@ LSIC is equipped with these following facilities:
 3. Functional near infra-red spectroscopy (fNIRS)
 4. Transcranial magnetic stimulation (TMS)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3629D2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+LSIC+at+HKBU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3629D2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+LSIC+at+HKBU;We+are+hiring+SO+and+RA+now!" alt="Typing SVG" />
